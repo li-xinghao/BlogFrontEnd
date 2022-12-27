@@ -3,10 +3,10 @@
     <!--是否登录-->
     <login-welcome />
 
-    <!--今日赠言-->
+    <!--每日一句-->
     <tip-card />
 
-    <!--资源推介-->
+    <!--热门标签-->
     <PromotionCard />
   </section>
 </template>

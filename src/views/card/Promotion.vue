@@ -1,7 +1,7 @@
 <template>
   <el-card class="box-card" shadow="never">
     <div slot="header">
-      <span>🥂 推广</span>
+      <span>🥂 热门标签</span>
     </div>
     <div>
       body
